@@ -7,14 +7,35 @@ The plots presented in the paper can all be generated from the code in the suppl
 
 ### Main Figures 
 
-#### Figure 1
+#### Figures 1a and 1b
+<img src=https://github.com/iabell/bee-all-and-end-all/blob/main/Figures/figure_1a.pdf width="500">
+
+<img src=https://github.com/iabell/bee-all-and-end-all/blob/main/Figures/figure_1b.pdf width = "500">
 
 #### Figure 2
+<img src=https://github.com/iabell/bee-all-and-end-all/blob/main/Figures/figure_2.svg width="500">
 
-#### Figure 3
+
+#### Figures 3a and 3b
+<img src=https://github.com/iabell/bee-all-and-end-all/blob/main/Figures/figure_3a.svg width="500">
+
+<img src=https://github.com/iabell/bee-all-and-end-all/blob/main/Figures/figure_3b.svg width="500">
+
 
 #### Figure 4
+<img src=https://github.com/iabell/bee-all-and-end-all/blob/main/Figures/figure_4.svg width="500">
+
 
 #### Figure 5
+<img src=https://github.com/iabell/bee-all-and-end-all/blob/main/Figures/figure_5.svg width="500">
 
 #### Figure 6
+<img src=https://github.com/iabell/bee-all-and-end-all/blob/main/Figures/figure_6.svg width="500">
+
+#### Figure 7
+<img src=https://github.com/iabell/bee-all-and-end-all/blob/main/Figures/figure_7.svg width="500">
+
+#### Figures 8a and 8b
+<img src=https://github.com/iabell/bee-all-and-end-all/blob/main/Figures/figure_8a.svg width="500">
+
+<img src=https://github.com/iabell/bee-all-and-end-all/blob/main/Figures/figure_8b.svg width="500">
