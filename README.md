@@ -1,5 +1,5 @@
 # Is testing the bee-all and end-all of varroa eradication?
-## Isobel R. Abell, Jennifer A. Flegg, Thao P. Le, and Christopher M. Baker
+## Isobel R. Abell, Thao P. Le, Jennifer A. Flegg, and Christopher M. Baker
 
 This repository contains the supplementary material for our paper "Is testing the bee-all and end-all of varroa eradication". 
 
